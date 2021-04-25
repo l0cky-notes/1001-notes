@@ -1,0 +1,102 @@
+{
+  "main": {
+    "id": "2702b936e2cacc78",
+    "type": "split",
+    "children": [
+      {
+        "id": "84d21a3eb57dc09d",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "network/2.7/Internet Connection Types.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ad77df55908458ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c36c1d7cb104ac3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40c219ab96f844b1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "fc4e921fa9f2a605",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b9a147c9dd6d1c29",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bc84dc37dadd6e6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30c3e36af65cc564",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "network/2.7/Internet Connection Types.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "84d21a3eb57dc09d",
+  "lastOpenFiles": [
+    "network/2.7/Untitled.md",
+    "network/2.6/Untitled.md",
+    "network/2.5/Untitled.md",
+    "network/2.4/Untitled.md",
+    "network/2.3/Configuring a SOHO Firewall.md",
+    "network/2.3/Installing a SOHO Network.md",
+    "network/2.3/Untitled.md",
+    "network/2.2/Untitled.md",
+    "network/2.1/Untitled.md",
+    "laptop/1.7/Untitled.md"
+  ]
+}
