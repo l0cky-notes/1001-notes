@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "network/2.7/Internet Connection Types.md",
+            "file": "hardware/3.11/Laser Printers.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/2.7/Internet Connection Types.md",
+                "file": "hardware/3.11/Laser Printers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "84d21a3eb57dc09d",
   "lastOpenFiles": [
-    "network/2.7/Untitled.md",
-    "network/2.6/Untitled.md",
-    "network/2.5/Untitled.md",
-    "network/2.4/Untitled.md",
-    "network/2.3/Configuring a SOHO Firewall.md",
-    "network/2.3/Installing a SOHO Network.md",
-    "network/2.3/Untitled.md",
-    "network/2.2/Untitled.md",
-    "network/2.1/Untitled.md",
-    "laptop/1.7/Untitled.md"
+    "hardware/3.11/Untitled.md",
+    "hardware/3.10/Untitled.md",
+    "hardware/3.9/Untitled.md",
+    "hardware/3.8/Untitled.md",
+    "hardware/3.7/Untitled.md",
+    "hardware/3.5/Untitled.md",
+    "hardware/3.4/Untitled.md",
+    "hardware/Untitled.md",
+    "hardware/3.3/Untitled.md",
+    "hardware/3.2/Untitled.md"
   ]
 }
